@@ -27,7 +27,7 @@ public class Add_salary extends JFrame implements ActionListener{
             }
         }catch(Exception e){ }
        
-        add(new JLabel("                    Employee Id"));
+        add(new JLabel("     Employee Id"));
         add(c2);
        
         
