@@ -31,29 +31,29 @@ public class Add_salary extends JFrame implements ActionListener{
         add(c2);
        
         
-        l1 = new JLabel("                    HRA (House Rent Allowance)");
+        l1 = new JLabel("     HRA (House Rent Allowance)");
         t1 = new JTextField(15);
        
         
         add(l1);
         add(t1);
        
-        l3 = new JLabel("                    DA (Dearness Allowance)");
+        l3 = new JLabel("     DA (Dearness Allowance)");
         t3 = new JTextField(15);
         add(l3);
         add(t3);
         
-        l4 = new JLabel("                    MA (Medical Allowance)");
+        l4 = new JLabel("     MA (Medical Allowance)");
         t4 = new JTextField(15);
         add(l4);
         add(t4); 
        
-        l5 = new JLabel("                    PF (Provident Fund)");
+        l5 = new JLabel("     PF (Provident Fund)");
         t5 = new JTextField(15);
         add(l5);
         add(t5);
         
-        l6 = new JLabel("                    Basic Salary");
+        l6 = new JLabel("     Basic Salary");
         t6 = new JTextField(15);
         add(l6);
         add(t6);
