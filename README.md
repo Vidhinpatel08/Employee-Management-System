@@ -1,5 +1,3 @@
-# Employee_Management_System
-This is project of  Employee_Management_System . It's mini project in our College.
 
 # EMPLOYEE MANAGEMENT SYSTEM
 <p>
@@ -35,6 +33,6 @@ and other work-related details for your employees.
 
 </ul>
 
-
-</br>  Employees Details stored in database.
+<br/>
+This is project of Employee_Management_System . It's mini project in our College.
 </p>
