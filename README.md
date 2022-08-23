@@ -1,8 +1,13 @@
 # Employee_Management_System
 This is project of  Employee_Management_System . It's mini project in our College.
 
+# EMPLOYEE MANAGEMENT SYSTEM
 <p>
-  Employee Management System is basic project. it's fully based on Java & mysql server.
+An employee management system is a software, that helps your 
+employees to give their best efforts every day to achieve the goals 
+of your organization. It guides and manages employees efforts in 
+the right direction. It also securely stores and manages personal 
+and other work-related details for your employees.
 </p>
 <br>
 <p>
