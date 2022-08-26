@@ -98,6 +98,7 @@ Step 3 : open Project Folder in Eclipse
 ### Building
 
 Now, you need to change some line as per your connecton :
+### JDBC Connecter 
 ###### open .classpath file and change
 
 ```
@@ -108,6 +109,7 @@ Now, you need to change some line as per your connecton :
 	<classpathentry kind="output" path="bin"/>
 
 ```
+### JDK connecter
 ###### open conn.java file and change
 
 ```
