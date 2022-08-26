@@ -144,18 +144,19 @@ How to work Our Application .
     - Salary
     - Attendance
     - About US
-  4. Employee 
+  4. Employee Panel
       - Add Employee
       - Update Employee
       - View Employee
       - Remove Employee
-  5. Attendance
+  5. Attendance Panel
       - Fill Attendance
       - View Attendance
-  6. salary
+  6. salary Panel
       - Add Salary
       - Update Salary
       - Generate Payment slips 
+  7. About US Panel
 
 <br>
 
