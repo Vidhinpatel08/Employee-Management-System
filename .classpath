@@ -6,6 +6,9 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/user-a/Downloads/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="D:/College/Employee_Project/Employee-Management-System/mysql-connecter/mysql-connector.jar"/>
+		<!-- path="D:/College/Employee_Project/Employee-Management-System/mysql-connecter/mysql-connector.jar"  --> 
+		<!-- set the path of where your mysql connecter location. like my current location
+		D:\College\Employee_Project\Employee-Management-System\mysql-connecter -->
 	<classpathentry kind="output" path="bin"/>
 </classpath>
