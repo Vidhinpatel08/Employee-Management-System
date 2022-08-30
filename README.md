@@ -171,4 +171,4 @@ How to work Our Application .
 - Choose your Database file **"project3"** and upload there and click to **Go**
 
 ## License
-This project is licensed under Apache License 2.0 2021 Atharva Ingle
+This project is licensed under <a href="./LICENSE"> Apache License 2.0 </a> 2022
